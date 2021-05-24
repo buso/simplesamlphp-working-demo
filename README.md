@@ -1,5 +1,7 @@
 A SimpleSAMLPHP working demo.  It has a working IdP, SP and a script authenticating against the SP.
 
+SimpleSAMLPHP v1.19.1 is used.
+
 hosts file entry.  edit via: sudo nano /etc/hosts
 
 ```
