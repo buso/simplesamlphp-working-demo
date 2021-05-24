@@ -79,3 +79,4 @@ IdP: https://idp.myhost.org (admin password: somepass123)
 SP: https://test.myhost.org/saml (admin password: somepass123)
 Script to test the SP and IdP: https://test.myhost.org/test.php (user: exampleuser / password: secret)
 ```
+This demo uses a MySQL for authentication purposes.  Use the included userdatabase.sql file to create the database/table with the necessary record to test.  The username and password for the MySQL database is: samluser/samluserpass.   Feel free to create your own user/password combination.
